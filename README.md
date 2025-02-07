@@ -87,7 +87,7 @@ scientific_calculator.py
  - Add theme customization options
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/lucalevi/calculator/blob/main/LICENSE) file for details.
 
 ## Author
 lucalevi - [GitHub](https://github.com/lucalevi)
