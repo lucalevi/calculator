@@ -44,9 +44,9 @@ python scientific_calculator.py
 
 ## Usage
 1. Basic Operations:
-.Click number buttons (0-9) to input digits
-.Use operator buttons (+, -, *, /) for arithmetic operations
-.Press "=" to evaluate the expression
+ - Click number buttons (0-9) to input digits
+ - Use operator buttons (+, -, *, /) for arithmetic operations
+ - Press "=" to evaluate the expression
 
 2. Scientific Functions:
 .`log` for base-10 logarithm
