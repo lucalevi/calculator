@@ -49,16 +49,16 @@ python scientific_calculator.py
  - Press "=" to evaluate the expression
 
 2. Scientific Functions:
-.`log` for base-10 logarithm
-.`ln` for natural logarithm
-.`x^y` for power operations (e.g., 2^3 = 8)
-.`√` for square root
+ - `log` for base-10 logarithm
+ - `ln` for natural logarithm
+ - `x^y` for power operations (e.g., 2^3 = 8)
+ - `√` for square root
 
 3. Special Features:
-.`⌫` removes the last entered character
-.`C` clears the entire input
-.Use `(` and `)` for parentheses
-.Access constants `π` and `e` with dedicated buttons
+ - `⌫` removes the last entered character
+ - `C` clears the entire input
+ - Use `(` and `)` for parentheses
+ - Access constants `π` and `e` with dedicated buttons
 
 ## Code Structure
 ```
@@ -74,17 +74,17 @@ scientific_calculator.py
 ```
 
 ## Implementation Details
-.GUI Framework: Built with Tkinter for cross-platform compatibility
-.Math Engine: Uses Python's eval() with safety checks
-.Error Handling: Catches invalid expressions and displays errors
-.Constants: Implements math.pi (π) and math.e (e) from Python's math module
+ - GUI Framework: Built with Tkinter for cross-platform compatibility
+ - Math Engine: Uses Python's eval() with safety checks
+ - Error Handling: Catches invalid expressions and displays errors
+ - Constants: Implements math.pi (π) and math.e (e) from Python's math module
 
 ## Possible extensions
-.Add trigonometric functions (sin, cos, tan)
-.Implement memory functions (M+, M-, MR)
-.Add keyboard input support
-.Create history tracking of calculations
-.Add theme customization options
+ - Add trigonometric functions (sin, cos, tan)
+ - Implement memory functions (M+, M-, MR)
+ - Add keyboard input support
+ - Create history tracking of calculations
+ - Add theme customization options
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
