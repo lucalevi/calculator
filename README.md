@@ -5,7 +5,9 @@
 
 A full-featured scientific calculator with graphical user interface (GUI) built using Python and Tkinter. Supports basic arithmetic operations, scientific functions, and constants.
 
-![Calculator Screenshot](calc.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/656385d0-4b8e-45fd-bc00-231129cdea21" width="400">
+</p>
 
 ## Features
 
