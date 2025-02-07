@@ -33,8 +33,8 @@ A full-featured scientific calculator with graphical user interface (GUI) built 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/scientific-calculator.git
-cd scientific-calculator
+git clone https://github.com/lucalevi/calculator.git
+cd calculator
 ```
 
 2. Run the calculator
